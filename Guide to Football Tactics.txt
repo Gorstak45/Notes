@@ -1,0 +1,1728 @@
+1. Set mentality depending on number of attackers (ST + W + AMC):
+
+a) 0 attackers = attacking = go route one
+b) 1 attackers = control = direct passing
+c) 2 attackers = standard = mixed passing 
+d) 3 attackers = counter = shorter passing
+e) 4 attackers = defensive = shorter passing + retain possession
+
+2. Set fluidity on depending on horizontal lines missing in formation (don't forget SW):
+
+a) 4 lines missing = very fluid = press much more
+b) 3 line missing = fluid = press more
+c) 2 lines missing = flexible = standard pressing
+d) 1 lines missing = structured = press less
+e) 0 lines missing = highly structured = press much less
+
+3. Fluidity meaning:
+
+a) highly structured = players play assigned roles
+b) structured = players play assigned roles and duties
+c) flexible = players play assigned duties
+d) fluid = players can bypass role and duty
+e) very fluid = players can bypass role and duty and mentality
+
+4. Set support duties depending on fluidity (lower figure if 3 CB's)
+
+a) highly structured = 0-1 support duties
+b) structured = 2-3 support duties
+c) flexible = 4-5 support duties
+d) fluid = 6-7 support duties
+e) very fluid = 8-9 support duties
+
+5. Changing fluidity and mentality is needed to make a specific part of the pitch your strong spot. 
+However, the opposite will be your weak spot. This is useful if you want a group of players or a single player to excel for selling:
+
+a) very fluid = right
+b) fluid = central right
+c) flexible = centre
+d) structured = central left
+e) highly structured = left
+
+a) overload = GK
+b) attacking = SW
+c) control = CB
+d) standard = DM
+e) counter = MC
+f) defensive = AMC
+g) contain = ST
+
+6) Notes
+
+a) Changing fluidity and mentality will make your team weaker (if you decrease it), or too tired before match is over (if you increase it).
+b) You can change pressing instead of fluidity, and passing instead of mentality. Or change all 3 options (like instead of fluid opt for flexible + press more).
+c) Defense is played so you are keeping opponent away from your goal and passing in opponent third. Offense is waiting in your half and going counter and push all men forward from deep.
+d) Players will get injured or get cards if mentality is higher then fluidity.
+e) If newly assembled team, drop fluidity so players positioning is better.
+f) If more structured, players are prone to errors but with good positioning.
+g) If more fluid, good with referee, lots of chances.
+h) More fluid and more agressive will yield better results, but will tire out your players before match is over.
+j) Playing more defensively and less fluid can make your team stronger, but can also make you a punching bag.
+k) Ideal match will always end 0:0. Meaning both teams attacked and defended perfectly.
+
+7) Player responsibilities
+
+a) Very fluid
+
+CONTAIN
+
+    GK: Shield Goal
+
+    SW: Obstruct Shots
+
+    DC: Obstruct Shots
+    Stopper Duty (All Roles): Divert Attacking Movement
+
+    DL/R: Slow Attacking Movement
+
+    DMC: Contain Attacking Movement
+
+    WB: Divert Attacking Movement
+
+    MC: Restrict Space Cautiously
+
+    ML/R: Restrict Space
+
+    AMC: Restrict Space Aggressively
+    Shadow Striker: Disrupt Attacks
+
+    AML/R: Disrupt Attacks Judiciously
+
+    ST (Lone Striker): Disrupt Attacks
+    Attack Duty with Multiple Strikers: Recover Possession
+
+
+DEFENSIVE
+
+    GK: Limit Pressure
+
+    SW: Divert Attacking Movement
+    Libero (All Duties): Restrict Space Cautiously
+
+    DC: Restrict Space Cautiously
+    Cover Duty (All Roles): Divert Attacking Movement
+    Stopper Duty (All Roles): Disrupt Attacks Judiciously
+
+    DL/R: Restrict Space
+
+    DMC: Restrict Space Aggressively
+    Halfback: Restrict Space
+
+    WB: Disrupt Attacks Judiciously
+
+    MC: Disrupt Attacks
+    Deep Lying Playmaker (All Duties): Disrupt Attacks Judiciously
+
+    ML/R: Disrupt Attacks Quickly
+
+    AMC: Recover Possession After Defensive Transition
+    Advanced Playmaker (All Duties): Disrupt Attacks Quickly
+    Shadow Striker: Recover Possession Immediately
+
+    AML/R: Recover Possession
+    Advanced Playmaker (All Duties): Recover Possession After Defensive Transition
+
+    ST (Lone Striker): Recover Possession Immediately
+    Attack Duty with Multiple Strikers: Keep Possession Under Pressure
+    False Nine (Lone Striker): Recover Possession
+    Support/Defend Duty with Multiple Strikers: Recover Possession
+    Trequartista (Lone Striker): Recover Possession
+    Trequartista with Multiple Strikers: Keep Possession
+
+
+COUNTER
+
+    GK: Distribute Safely
+
+    SW: Restrict Space Aggressively
+    Libero (All Duties): Disrupt Attacks Judiciously
+
+    DC: Disrupt Attacks Judiciously
+    Cover Duty (All Roles): Restrict Space
+    Stopper Duty (All Roles): Disrupt Attacks Quickly
+
+    DL/R: Disrupt Attacks
+
+    DMC: Disrupt Attacks Quickly
+    Halfback: Disrupt Attacks
+
+    WBL/R: Recover Possession After Defensive Transition
+
+    MC: Recover Possession
+    Deep Lying Playmaker (All Duties): Recover Possession After Defensive Transition
+
+    ML/R: Recover Possession Immediately
+
+    AMC: Keep Possession Away From Pressure
+    Advanced Playmaker (All Duties): Recover Possession Immediately
+    Shadow Striker: Keep Possession Under Pressure
+
+    AML/R: Keep Possession
+    Advanced Playmaker (All Duties): Keep Possession Away From Pressure
+
+    ST (Lone Striker): Keep Possession Under Pressure
+    Attack Duty with Multiple Strikers: Shuttle Ball
+    False Nine (Lone Striker): Keep Possession
+    Support/Defend Duty with Multiple Strikers: Keep Possession Away From Pressure
+    Trequartista (Lone Striker): Keep Possession
+    Trequartista with Multiple Strikers: Shuttle Ball Into Space
+
+
+STANDARD
+
+    GK: Cycle Possession
+
+    SW: Disrupt Attacks
+    Libero (All Duties): Recover Possession After Defensive Transition
+
+    DC: Recover Possession After Defensive Transition
+    Cover Duty (All Roles): Disrupt Attacks
+    Stopper Duty (All Roles): Recover Possession Immediately
+
+    DL/R: Recover Possession
+
+    DMC: Recover Possession Immediately
+    Halfback: Recover Possession After Defensive Transition
+
+    WBL/R: Keep Possession Away From Pressure
+
+    MC: Keep Possession
+    Deep Lying Playmaker (All Duties): Recover Possession Immediately
+
+    ML/R: Keep Possession Under Pressure
+
+    AMC: Shuttle Ball Into Space
+    Advanced Playmaker (All Duties): Keep Possession
+    Shadow Striker: Shuttle Ball Through Defence
+
+    AML/R: Shuttle Ball
+    Advanced Playmaker (All Duties): Keep Possession Under Pressure
+
+    ST (Lone Striker): Shuttle Ball Through Defence
+    Attack Duty with Multiple Strikers: Spearhead Attacking Moves
+    False Nine (Lone Striker): Shuttle Ball Into Space
+    Support/Defend Duty with Multiple Strikers: Shuttle Ball Into Space
+    Trequartista (Lone Striker): Shuttle Ball Into Space
+    Trequartista with Multiple Strikers: Shuttle Ball Through Defence
+
+
+CONTROL
+
+    GK: Cycle Possession
+
+    SW: Recover Possession
+    Libero (All Duties): Keep Possession Away From Pressure
+
+    DC: Keep Possession Away From Pressure
+    Cover Duty (All Roles): Recover Possession
+    Stopper Duty (All Roles): Keep Possession Under Pressure
+
+    DL/R: Keep Possession
+
+    DMC: Keep Possession Under Pressure
+    Halfback: Keep Possession Away From Pressure
+
+    WBL/R: Shuttle Ball Into Space
+
+    MC: Shuttle Ball
+    Deep Lying Playmaker (All Duties): Keep Possession Under Pressure
+
+    ML/R: Shuttle Ball Through Defence
+
+    AMC: Spearhead Attacking Moves from the Hole
+    Advanced Playmaker (All Duties): Shuttle Ball
+    Shadow Striker: Spearhead Attacking Moves Closer to Defence
+    Support Duty (All Other Roles): Create Chances Patiently
+
+    AML/R: Spearhead Attacking Moves
+    Advanced Playmaker (All Duties): Shuttle Ball Through Defence
+    Defensive Winger (Defend): Suppress Counterattacks
+    Support Duty (All Other Roles): Create Chances
+
+    ST (Lone Striker): Spearhead Attacking Moves Closer to Defence
+    Attack Duty with Multiple Strikers: Penetrate Gaps
+    Defensive Forward (Defend-Lone Striker): Suppress Counterattacking Outlets
+    Defensive Forward (Defend-Multiple Strikers): Suppress Counterattacking Options
+    False Nine (Lone Striker): Create Chances Patiently
+    Support Duty (Lone Striker): Create Chances Urgently
+    Support Duty with Multiple Strikers: Create Chances Patiently
+    Trequartista (Lone Striker): Create Chances Patiently
+    Trequartista with Multiple Strikers: Create Chances Urgently
+
+
+ATTACKING
+
+    GK: Initiate Attacks
+
+    SW: Keep Possession
+    Libero (All Duties): Shuttle Ball Into Space
+
+    DC: Shuttle Ball Into Space
+    Cover Duty (All Roles): Keep Possession Away From Pressure
+    Stopper Duty (All Roles): Shuttle Ball
+
+    DL/R: Shuttle Ball
+
+    DMC: Shuttle Ball Through Defence
+    Halfback: Shuttle Ball Into Space
+
+    WBL/R: Spearhead Attacking Moves from the Hole
+    Defend Duty: Suppress Counterattacking Options
+    Support Duty: Create Chances Patiently
+
+    MC: Spearhead Attacking Moves
+    Deep Lying Playmaker (All Duties): Shuttle Ball Through Defence
+    Defend Duty (All Other Roles): Suppress Counterattacks
+    Support Duty (All Other Roles): Create Chances
+
+    ML/R: Spearhead Attacking Moves Closer to Defence
+    Defend Duty: Suppress Counterattacking Outlets
+    Support Duty: Create Chances Urgently
+
+    AMC: Penetrate Gaps Intermittently
+    Advanced Playmaker (All Duties): Create Chances
+    Enganche: Force Half Chances When Necessary
+    Shadow Striker: Penetrate Gaps
+    Support Duty (All Other Roles): Force Half Chances When Necessary
+    Trequartista: Force Half Chances When Necessary
+
+    AML/R: Penetrate Gaps
+    Advanced Playmaker (All Duties): Create Chances Urgently
+    Defensive Winger (Defend): Isolate Midfielders
+    Support Duty (All Other Roles): Force Half Chances
+
+    ST (Lone Striker): Penetrate Gaps Persistently
+    Attack Duty with Multiple Strikers: Draw Off Defenders
+    Defensive Forward (Defend-Lone Striker): Isolate Holding Midfielders
+    Defensive Forward (Defend-Multiple Strikers): Suppress Counterattacking Outlets
+    False Nine (Lone Striker): Force Half Chances When Necessary
+    Support Duty with Multiple Strikers: Create Chances Urgently
+    Trequartista (Lone Striker): Force Half Chances When Necessary
+    Trequartista with Multiple Strikers: Force Half Chances
+
+
+OVERLOAD
+
+    GK: Support Attacks
+
+    SW: Shuttle Ball Through Defence
+    Libero (Attack Duty): Spearhead Attacking Moves
+    Libero (Support Duty): Create Chances
+
+    DC: Suppress Counterattacks
+    Cover Duty (All Roles): Shuttle Ball
+
+    DL/R: Spearhead Attacking Moves Closer to Defence
+    Defend Duty (All Roles): Suppress Counterattacking Outlets
+    Support Duty (All Roles): Create Chances Urgently
+
+    DMC: Force Half Chances When Necessary
+    Defend Duty (All Roles Except DLP and HB): Isolate Advancing Midfielders
+    Halfback: Suppress Counterattacks
+
+    WBL/R: Penetrate Gaps
+    Defend Duty (All Roles): Isolate Midfielders
+    Support Duty (All Roles): Force Half Chances
+
+    MC: Penetrate Gaps Persistently
+    Advanced Playmaker (All Duties): Force Half Chances Without Hesitation
+    Deep Lying Playmaker (All Duties): Force Half Chances When Necessary
+    Defend Duty (All Other Roles): Isolate Holding Midfielders
+    Support Duty (All Other Roles): Force Half Chances Without Hesitation
+
+    ML/R: Draw Off Defenders
+    Defend Duty (All Roles): Hassle Dawdling Defenders
+    Support Duty (All Roles): Test Defence With Precision
+
+    AMC: Overload Defenders
+    Advanced Playmaker (All Duties): Force Half Chances Without Hesitation
+    Enganche: Test Defence
+    Support Duty (All Other Roles): Test Defence
+    Trequartista: Test Defence
+
+    AML/R: Challenge Defenders
+    Advanced Playmaker (All Duties): Test Defence With Precision
+    Defensive Winger (Defend): Hassle Defenders Relentlessly
+    Support Duty (All Other Roles): Test Defence With Power
+
+    ST (Lone Striker): Bypass Last Defender
+    Attack Duty with Multiple Strikers: Bypass Last Defender
+    Defensive Forward (Defend-Lone Striker): Force Clearance
+    Defensive Forward (Defend-Multiple Strikers): Hassle Dawdling Defenders
+    False Nine (Lone Striker): Test Defence
+    Support Duty (Lone Striker): Rush Ball Forward
+    Support Duty with Multiple Strikers: Draw Off Defenders
+    Trequartista (Lone Striker): Test Defence
+    Trequartista with Multiple Strikers: Test Defence with Power
+
+b) Fluid
+
+
+CONTAIN
+
+    GK: Shield Goal
+    Sweeper Keeper (All Duties): Limit Pressure
+
+    SW: Obstruct Shots
+    Libero (All Duties): Restrict Space Cautiously
+
+    DC: Obstruct Shots
+    Stopper Duty (All Roles): Divert Attacking Movement
+
+    DL/R: Slow Attacking Movement
+
+    DMC: Contain Attacking Movement
+
+    WBL/R: Divert Attacking Movement
+
+    MC: Disrupt Attacks
+    Box to Box Midfielder: Restrict Space Aggressively
+    Deep Lying Playmaker (All Duties): Restrict Space Cautiously
+    Defend Duty (All Other Roles): Restrict Space Cautiously
+
+    ML/R: Disrupt Attacks Quickly
+
+    AMC: Recover Possession After Defensive Transition
+    Advanced Playmaker (All Duties): Disrupt Attacks
+    Shadow Striker: Recover Possession Immediately
+
+    AML/R: Recover Possession
+    Advanced Playmaker (All Duties): Disrupt Attacks Quickly
+
+    ST (Lone Striker): Recover Possession Immediately
+    Attack Duty (Multiple Strikers): Keep Possession Under Pressure
+    False Nine (Lone Striker): Recover Possession After Defensive Transition
+    Support/Defend Duty (Multiple Strikers): Recover Possession
+    Trequartista (Lone Striker): Recover Possession After Defensive Transition
+    Trequartista (Multiple Strikers): Keep Possession Away From Pressure
+
+
+DEFENSIVE
+
+    GK: Limit Pressure
+    Sweeper Keeper (All Duties): Distribute Safely
+
+    SW: Contain Attacking Movement
+    Libero (All Duties): Disrupt Attacks Judiciously
+
+    DC: Divert Attacking Movement
+    Cover Duty (All Roles): Contain Attacking Movement
+    Stopper Duty (All Roles): Restrict Space Aggressively
+
+    DL/R: Restrict Space Cautiously
+
+    DMC: Restrict Space
+    Halfback: Restrict Space Cautiously
+
+    WBL/R: Restrict Space Aggressively
+
+    MC: Recover Possession
+    Box to Box Midfielder: Disrupt Attacks Quickly
+    Deep Lying Playmaker (All Duties): Restrict Space Aggressively
+    Defend Duty (All Other Roles): Disrupt Attacks Judiciously
+
+    ML/R: Recover Possession Immediately
+
+    AMC: Keep Possession Away From Pressure
+    Advanced Playmaker (All Duties): Recover Possession
+    Shadow Striker: Keep Possession Under Pressure
+
+    AML/R: Keep Possession
+    Advanced Playmaker (All Duties): Recover Possession Immediately
+
+    ST (Lone Striker): Keep Possession Under Pressure
+    Attack Duty (Multiple Strikers): Shuttle Ball Through Defence
+    False Nine (Lone Striker): Keep Possession Away From Pressure
+    Support/Defend Duty (Multiple Strikers): Keep Possession
+    Trequartista (Lone Striker): Keep Possession Away From Pressure
+    Trequartista (Multiple Strikers): Shuttle Ball Into Space
+
+
+COUNTER
+
+    GK: Limit Pressure
+    Sweeper Keeper (All Duties): Cycle Possession
+
+    SW: Restrict Space Cautiously
+    Libero (All Duties): Recover Possession After Defensive Transition
+
+    DC: Restrict Space Aggressively
+    Cover Duty (All Roles): Restrict Space Cautiously
+    Stopper Duty (All Roles): Disrupt Attacks
+
+    DL/R: Disrupt Attacks Judiciously
+
+    DMC: Disrupt Attacks
+    Halfback: Restrict Space Aggressively
+
+    WBL/R: Disrupt Attacks Quickly
+
+    MC: Keep Possession
+    Box to Box Midfielder: Recover Possession Immediately
+    Deep Lying Playmaker (All Duties): Disrupt Attacks
+    Defend Duty (All Other Roles): Recover Possession After Defensive Transition
+
+    ML/R: Keep Possession Under Pressure
+
+    AMC: Shuttle Ball Into Space
+    Advanced Playmaker (All Duties): Keep Possession
+    Shadow Striker: Shuttle Ball Through Defence
+
+    AML/R: Shuttle Ball
+    Advanced Playmaker (All Duties): Keep Possession Under Pressure
+
+    ST (Lone Striker): Shuttle Ball Through Defence
+    Attack Duty (Multiple Strikers): Spearhead Attacking Moves
+    False Nine (Lone Striker): Shuttle Ball Into Space
+    Support/Defend Duty (Multiple Strikers): Shuttle Ball Into Space
+    Trequartista (Lone Striker): Shuttle Ball Into Space
+    Trequartista (Multiple Strikers): Shuttle Ball Through Defence
+
+
+STANDARD
+
+    GK: Distribute Safely
+    Sweeper Keeper (All Duties): Cycle Possession
+
+    SW: Restrict Space Aggressively
+    Libero (All Duties): Recover Possession Immediately
+
+    DC: Disrupt Attacks
+    Cover Duty (All Roles): Restrict Space Aggressively
+    Stopper Duty (All Roles): Recover Possession After Defensive Transition
+
+    DL/R: Disrupt Attacks Quickly
+
+    DMC: Recover Possession After Defensive Transition
+    Halfback: Disrupt Attacks
+
+    WBL/R: Recover Possession
+
+    MC: Shuttle Ball Into Space
+    Box to Box Midfielder: Keep Possession
+    Deep Lying Playmaker (All Duties): Recover Possession After Defensive Transition
+    Defend Duty (All Other Roles): Recover Possession Immediately
+
+    ML/R: Shuttle Ball
+
+    AMC: Shuttle Ball Through Defence
+    Advanced Playmaker (All Duties): Shuttle Ball Into Space
+    Shadow Striker: Spearhead Attacking Moves
+
+    AML/R: Spearhead Attacking Moves from the Hole
+    Advanced Playmaker (All Duties): Shuttle Ball
+    Defensive Winger (Defend): Suppress Counterattacking Options
+    Support Duty (All Other Roles): Create Chances Patiently
+
+    ST (Lone Striker): Spearhead Attacking Moves
+    Attack Duty (Multiple Strikers): Penetrate Gaps Intermittently
+    Defensive Forward (Defend - Lone Striker): Suppress Counterattacks
+    False Nine (Lone Striker): Shuttle Ball Through Defence
+    Support Duty (Lone Striker): Create Chances
+    Support/Defend Duty (Multiple Strikers): Shuttle Ball Through Defence
+    Trequartista (Lone Striker): Shuttle Ball Through Defence
+    Trequartista (Multiple Strikers): Create Chances
+
+
+CONTROL
+
+    GK: Cycle Possession
+    Sweeper Keeper (All Duties): Initiate Attacks
+
+    SW: Disrupt Attacks
+    Libero (All Duties): Keep Possession
+
+    DC: Recover Possession After Defensive Transition
+    Cover Duty (All Roles): Disrupt Attacks
+    Stopper Duty (All Roles): Recover Possession Immediately
+
+    DL/R: Recover Possession
+
+    DMC: Recover Possession Immediately
+    Halfback: Recover Possession After Defensive Transition
+
+    WBL/R: Keep Possession Away From Pressure
+
+    MC: Shuttle Ball Through Defence
+    Box to Box Midfielder: Shuttle Ball Into Space
+    Deep Lying Playmaker (All Duties): Recover Possession Immediately
+    Defend Duty (All Other Roles): Keep Possession
+
+    ML/R: Spearhead Attacking Moves from the Hole
+    Defend Duty (All Roles): Suppress Counterattacking Options
+    Support Duty (All Roles): Create Chances Patiently
+
+    AMC: Spearhead Attacking Moves
+    Advanced Playmaker (All Duties): Shuttle Ball Through Defence
+    Support Duty (All Other Roles): Create Chances
+    Shadow Striker: Penetrate Gaps Intermittently
+
+    AML/R: Spearhead Attacking Moves Closer to Defence
+    Advanced Playmaker (All Duties): Create Chances Patiently
+    Defensive Winger (Defend): Suppress Counterattacking Outlets
+    Support Duty (All Other Roles): Create Chances Urgently
+
+    ST (Lone Striker): Penetrate Gaps Intermittently
+    Attack Duty (Multiple Strikers): Penetrate Gaps Persistently
+    Defensive Forward (Defend - Lone Striker): Isolate Advancing Midfielders
+    Defensive Forward (Defend - Multiple Strikers): Suppress Counterattacks
+    False Nine (Lone Striker): Create Chances
+    Support Duty (Lone Striker): Force Half Chances When Necessary
+    Support Duty (Multiple Strikers): Create Chances
+    Trequartista (Lone Striker): Create Chances
+    Trequartista (Multiple Strikers): Force Chances When Necessary
+
+
+ATTACK
+
+    GK: Cycle Possession
+    Sweeper Keeper (All Duties): Initiate Attacks
+
+    SW: Recover Possession
+    Libero (All Duties): Shuttle Ball
+
+    DC: Keep Possession Away From Pressure
+    Cover Duty (All Roles): Recover Possession After Defensive Transition
+    Stopper Duty (All Roles): Keep Possession
+
+    DL/R: Keep Possession
+
+    DMC: Keep Possession Under Pressure
+    Halfback: Keep Possession Away From Pressure
+
+    WBL/R: Shuttle Ball Into Space
+
+    MC: Spearhead Attacking Moves Closer to Defence
+    Box to Box Midfielder: Create Chances Patiently
+    Deep Lying Playmaker (All Duties): Keep Possession Under Pressure
+    Defend Duty (All Other Roles): Shuttle Ball
+    Support Duty (All Other Roles): Create Chances Urgently
+
+    ML/R: Penetrate Gaps Intermittently
+    Defend Duty (All Roles): Isolate Advancing Midfielders
+    Support Duty (All Roles): Force Half Chances When Necessary
+
+    AMC: Penetrate Gaps
+    Advanced Playmaker (All Duties): Create Chances Urgently
+    Enganche: Force Half Chances
+    Shadow Striker: Penetrate Gaps Persistently
+    Support Duty (All Other Roles): Force Half Chances
+    Trequartista: Force Half Chances
+
+    AML/R: Penetrate Gaps Persistently
+    Advanced Playmaker (All Duties): Force Half Chances When Necessary
+    Defensive Winger (Defend): Isolate Holding Midfielders
+    Support Duty (All Other Roles): Force Half Chances Without Hesitation
+
+    ST (Lone Striker): Draw Off Defenders
+    Attack Duty (Multiple Strikers): Overload Defenders
+    Defensive Forward (Defend - Lone Striker): Hassle Dawdling Defenders
+    Defensive Forward (Defend - Multiple Strikers): Isolate Advancing Midfielders
+    False Nine (Lone Striker): Force Half Chances
+    Support Duty (Lone Striker): Test Defence With Precision
+    Support Duty (Multiple Strikers): Force Half Chances When Necessary
+    Trequartista (Lone Striker): Force Half Chances
+    Trequartista (Multiple Strikers): Force Half Chances Without Hesitation
+
+
+OVERLOAD
+
+    GK: Initiate Attacks
+    Sweeper Keeper (All Duties): Support Attacks
+
+    SW: Keep Possession
+    Libero (Attack Duty): Spearhead Attacking Moves
+    Libero (Support Duty): Create Chances
+
+    DC: Shuttle Ball Into Space
+    Cover Duty (All Roles): Keep Possession Away From Pressure
+    Stopper Duty (All Roles): Shuttle Ball
+
+    DL/R: Shuttle Ball
+
+    DMC: Shuttle Ball Through Defence
+    Halfback: Shuttle Ball Into Space
+
+    WBL/R: Spearhead Attacking Moves from the Hole
+    Defend Duty: Suppress Counterattacking Options
+    Support Duty: Create Chances Patiently
+
+    MC: Penetrate Gaps Persistently
+    Advanced Playmaker (All Duties): Force Half Chances Without Hesitation
+    Box to Box Midfielder: Force Half Chances When Necessary
+    Deep Lying Playmaker (All Duties): Shuttle Ball Through Defence
+    Defend Duty (All Other Roles): Suppress Counterattacks
+    Support Duty (All Other Roles): Force Half Chances Without Hesitation
+
+    ML/R: Draw Off Defenders
+    Defend Duty (All Roles): Hassle Dawdling Defenders
+    Support Duty (All Roles): Test Defence With Precision
+
+    AMC: Overload Defenders
+    Advanced Playmaker (All Duties): Force Half Chances When Necessary
+    Enganche: Test Defence
+    Support Duty (All Other Roles): Test Defence
+    Trequartista: Test Defence
+
+    AML/R: Challenge Defenders
+    Advanced Playmaker (All Duties): Test Defence With Precision
+    Defensive Winger (Defend): Hassle Defenders Relentlessly
+    Support Duty (All Other Roles): Test Defence With Power
+
+    ST (Lone Striker): Bypass Last Defender
+    Attack Duty (Multiple Strikers): Bypass Last Defender
+    Defensive Forward (Defend - Lone Striker): Force Clearance
+    Defensive Forward (Defend - Multiple Strikers): Hassle Dawdling Defenders
+    False Nine (Lone Striker): Test Defence
+    Support Duty (Lone Striker): Rush Ball Forward
+    Support Duty (Multiple Strikers): Test Defence With Precision
+    Trequartista (Lone Striker): Test Defence
+    Trequartista (Multiple Strikers): Test Defence with Power
+
+c) Flexible
+
+CONTAIN
+
+    GK: Shield Goal
+    Sweeper Keeper (Attack): Limit Pressure
+    Sweeper Keeper (Support): Limit Pressure
+
+    SW: Obstruct Shots
+    Libero (Attack): Restrict Space Aggressively
+    Libero (Support): Divert Attacking Movement
+
+    DC: Obstruct Shots
+    Stopper Duty (All Roles): Divert Attacking Movement
+
+    DL/R: Disrupt Attacks Judiciously
+    Defend Duty (All Roles): Slow Attacking Movement
+    Support Duty (All Roles): Restrict Space Cautiously
+
+    DMC: Contain Attacking Movement
+    Support Duty (All Roles): Restrict Space
+
+    WBL/R: Disrupt Attacks Quickly
+    Wingback (Defend): Divert Attacking Movement
+    Wingback (Support): Restrict Space Aggressively
+
+    MC: Recover Possession After Defensive Transition
+    Deep Lying Playmaker (Support): Restrict Space
+    Defend Duty (All Roles): Restrict Space Cautiously
+    Support Duty (All Other Roles): Disrupt Attacks Judiciously
+
+    ML/R: Recover Possession
+    Defend Duty (All Roles): Restrict Space
+    Support Duty (All Roles): Disrupt Attacks
+
+    AMC: Recover Possession Immediately
+    Advanced Playmaker (Attack): Recover Possession After Defensive Transition
+    Advanced Playmaker (Support): Disrupt Attacks Judiciously
+    Shadow Striker: Keep Possession
+    Support Duty (All Other Roles): Disrupt Attacks Quickly
+
+    AML/R: Keep Possession Away From Pressure
+    Advanced Playmaker (Attack): Recover Possession
+    Advanced Playmaker (Support): Disrupt Attacks
+    Defensive Winger (Defend): Disrupt Attacks Judiciously
+    Support Duty (All Other Roles): Recover Possession After Defensive Transition
+
+    ST (Lone Striker): Keep Possession
+    Attack Duty (Multiple Strikers): Shuttle Ball
+    Defensive Forward (Defend): Disrupt Attacks
+    False Nine (Lone Striker): Recover Possession After Defensive Transition
+    Support Duty (Lone Striker): Recover Possession
+    Support Duty (Multiple Strikers): Recover Possession After Defensive Transition
+    Trequartista (Lone Striker): Recover Possession Immediately
+    Trequartista (Multiple Strikers): Keep Possession Under Pressure
+
+
+DEFENSIVE
+
+    GK: Limit Pressure
+    Sweeper Keeper (Attack): Distribute Safely
+    Sweeper Keeper (Support): Limit Pressure
+
+    SW: Contain Attacking Movement
+    Libero (Attack): Disrupt Attacks Quickly
+    Libero (Support): Restrict Space Aggressively
+
+    DC: Divert Attacking Movement
+    Cover Duty (All Roles): Contain Attacking Movement
+    Stopper Duty (All Roles): Restrict Space Aggressively
+
+    DL/R: Recover Possession After Defensive Transition
+    Defend Duty (All Roles): Restrict Space Cautiously
+    Support Duty (All Roles): Disrupt Attacks Judiciously
+
+    DMC: Restrict Space
+    Halfback: Restrict Space Cautiously
+    Support Duty (All Roles): Disrupt Attacks
+
+    WBL/R: Recover Possession Immediately
+    Wingback (Defend): Restrict Space Aggressively
+    Wingback (Support): Disrupt Attacks Quickly
+
+    MC: Keep Possession Away From Pressure
+    Deep Lying Playmaker (Defend): Restrict Space Aggressively
+    Deep Lying Playmaker (Support): Disrupt Attacks
+    Defend Duty (All Other Roles): Disrupt Attacks Judiciously
+    Support Duty (All Other Roles): Recover Possession After Defensive Transition
+
+    ML/R: Keep Possession
+    Defend Duty (All Roles): Disrupt Attacks
+    Support Duty (All Roles): Recover Possession
+
+    AMC: Keep Possession Under Pressure
+    Advanced Playmaker (Attack): Keep Possession Away From Pressure
+    Advanced Playmaker (Support): Recover Possession After Defensive Transition
+    Shadow Striker: Shuttle Ball
+    Support Duty (All Other Roles): Recover Possession Immediately
+
+    AML/R: Shuttle Ball Into Space
+    Advanced Playmaker (Attack): Keep Possession
+    Advanced Playmaker (Support): Recover Possession
+    Defensive Winger (Defend): Recover Possession After Defensive Transition
+    Support Duty (All Other Roles): Keep Possession Away From Pressure
+
+    ST (Lone Striker): Shuttle Ball
+    Attack Duty (Multiple Strikers): Spearhead Attacking Moves
+    Defensive Forward (Defend): Recover Possession
+    False Nine (Lone Striker): Recover Possession Immediately
+    Support Duty (Lone Striker): Keep Possession
+    Support Duty (Multiple Strikers): Keep Possession Away From Pressure
+    Trequartista (Lone Striker): Keep Possession Under Pressure
+    Trequartista (Multiple Strikers): Shuttle Ball Through Defence
+
+
+COUNTER
+
+    GK: Limit Pressure
+    Sweeper Keeper (Attack): Cycle Possession
+    Sweeper Keeper (Support): Distribute Safely
+
+    SW: Restrict Space Cautiously
+    Libero (Attack): Recover Possession
+    Libero (Support): Disrupt Attacks
+
+    DC: Restrict Space
+    Cover Duty (All Roles): Divert Attacking Movement
+    Stopper Duty (All Roles): Disrupt Attacks Judiciously
+
+    DL/R: Recover Possession Immediately
+    Defend Duty (All Roles): Restrict Space Aggressively
+    Support Duty (All Roles): Disrupt Attacks Quickly
+
+    DMC: Disrupt Attacks Judiciously
+    Halfback: Restrict Space
+    Support Duty (All Roles): Recover Possession After Defensive Transition
+
+    WBL/R: Keep Possession
+    Wingback (Defend): Disrupt Attacks
+    Wingback (Support): Recover Possession
+
+    MC: Keep Possession Under Pressure
+    Deep Lying Playmaker (Defend): Disrupt Attacks
+    Deep Lying Playmaker (Support): Recover Possession After Defensive Transition
+    Defend Duty (All Other Roles): Disrupt Attacks Quickly
+    Support Duty (All Other Roles): Recover Possession Immediately
+
+    ML/R: Shuttle Ball Into Space
+    Defend Duty (All Roles): Recover Possession After Defensive Transition
+    Support Duty (All Roles): Keep Possession Away From Pressure
+
+    AMC: Shuttle Ball
+    Advanced Playmaker (Attack): Keep Possession Under Pressure
+    Advanced Playmaker (Support): Recover Possession Immediately
+    Shadow Striker: Spearhead Attacking Moves from the Hole
+    Support Duty (All Other Roles): Keep Possession
+
+    AML/R: Shuttle Ball Through Defence
+    Advanced Playmaker (Attack): Shuttle Ball Into Space
+    Advanced Playmaker (Support): Keep Possession Away From Pressure
+    Defensive Winger (Defend): Recover Possession Immediately
+    Support Duty (All Other Roles): Keep Possession Under Pressure
+
+    ST (Lone Striker): Spearhead Attacking Moves from the Hole
+    Attack Duty (Multiple Strikers): Spearhead Attacking Moves Closer to Defence
+    Defensive Forward (Defend): Keep Possession Away From Pressure
+    False Nine (Lone Striker): Keep Possession
+    Support Duty (Lone Striker): Shuttle Ball Into Space
+    Support Duty (Multiple Strikers): Keep Possession
+    Trequartista (Lone Striker): Shuttle Ball
+    Trequartista (Multiple Strikers): Create Chances Patiently
+
+
+STANDARD
+
+    GK: Distribute Safely
+    Sweeper Keeper (Attack): Cycle Possession
+    Sweeper Keeper (Support): Cycle Possession
+
+    SW: Restrict Space
+    Libero (Attack): Keep Possession Away From Pressure
+    Libero (Support): Recover Possession After Defensive Transition
+
+    DC: Disrupt Attacks Judiciously
+    Cover Duty (All Roles): Restrict Space
+    Stopper Duty (All Roles): Disrupt Attacks Quickly
+
+    DL/R: Keep Possession
+    Defend Duty (All Roles): Disrupt Attacks
+    Support Duty (All Roles): Recover Possession
+
+    DMC: Disrupt Attacks Quickly
+    Halfback: Disrupt Attacks Judiciously
+    Support Duty (All Roles): Recover Possession Immediately
+
+    WBL/R: Shuttle Ball Into Space
+    Wingback (Defend): Recover Possession After Defensive Transition
+    Wingback (Support): Keep Possession Away From Pressure
+
+    MC: Shuttle Ball
+    Deep Lying Playmaker (Defend): Disrupt Attacks Quickly
+    Deep Lying Playmaker (Support): Recover Possession Immediately
+    Defend Duty (All Other Roles): Recover Possession
+    Support Duty (All Other Roles): Keep Possession
+
+    ML/R: Shuttle Ball Through Defence
+    Defend Duty (All Roles): Recover Possession Immediately
+    Support Duty (All Roles): Keep Possession Under Pressure
+
+    AMC: Spearhead Attacking Moves from the Hole
+    Advanced Playmaker (Attack): Shuttle Ball
+    Advanced Playmaker (Support): Keep Possession
+    Shadow Striker: Spearhead Attacking Moves Closer to Defence
+    Support Duty (All Other Roles): Shuttle Ball Into Space
+
+    AML/R: Spearhead Attacking Moves
+    Advanced Playmaker (Attack): Shuttle Ball Through Defence
+    Advanced Playmaker (Support): Keep Possession Under Pressure
+    Defensive Winger (Defend): Keep Possession
+    Support Duty (All Other Roles): Shuttle Ball
+
+    ST (Lone Striker): Spearhead Attacking Moves Closer to Defence
+    Attack Duty (Multiple Strikers): Penetrate Gaps
+    Defensive Forward (Defend): Keep Possession Under Pressure
+    False Nine (Lone Striker): Shuttle Ball Into Space
+    Support Duty (Lone Striker): Shuttle Ball Through Defence
+    Support Duty (Multiple Strikers): Shuttle Ball Into Space
+    Trequartista (Lone Striker): Create Chances Patiently
+    Trequartista (Multiple Strikers): Create Chances Urgently
+
+
+CONTROL
+
+    GK: Distribute Safely
+    Sweeper Keeper (Attack): Initiate Attacks
+    Sweeper Keeper (Support): Cycle Possession
+
+    SW: Disrupt Attacks Judiciously
+    Libero (Attack): Keep Possession Under Pressure
+    Libero (Support): Recover Possession Immediately
+
+    DC: Disrupt Attacks Quickly
+    Cover Duty (All Roles): Disrupt Attacks Judiciously
+    Stopper Duty (All Roles): Recover Possession
+
+    DL/R: Shuttle Ball Into Space
+    Defend Duty (All Roles): Recover Possession After Defensive Transition
+    Support Duty (All Roles): Keep Possession Away From Pressure
+
+    DMC: Recover Possession
+    Halfback: Disrupt Attacks Quickly
+    Support Duty (All Roles): Keep Possession
+
+    WBL/R: Shuttle Ball Through Defence
+    Wingback (Defend): Recover Possession Immediately
+    Wingback (Support): Keep Possession Under Pressure
+
+    MC: Spearhead Attacks from the Hole
+    Deep Lying Playmaker (Defend): Recover Possession
+    Deep Lying Playmaker (Support): Keep Possession
+    Defend Duty (All Other Roles): Keep Possession Away From Pressure
+    Support Duty (All Other Roles): Shuttle Ball Into Space
+
+    ML/R: Spearhead Attacks
+    Defend Duty (All Roles): Keep Possession
+    Support Duty (All Roles): Shuttle Ball
+
+    AMC: Spearhead Attacks Closer to Defence
+    Advanced Playmaker (Attack): Create Chances Patiently
+    Advanced Playmaker (Support): Shuttle Ball Into Space
+    Shadow Striker: Penetrate Gaps
+    Support Duty (All Other Roles): Shuttle Ball Through Defence
+
+    AML/R: Penetrate Gaps Intermittently
+    Advanced Playmaker (Attack): Create Chances
+    Advanced Playmaker (Support): Shuttle Ball
+    Defensive Winger (Defend): Shuttle Ball Into Space
+    Support Duty (All Other Roles): Create Chances Patiently
+
+    ST (Lone Striker): Penetrate Gaps
+    Attack Duty (Multiple Strikers): Draw Off Defenders
+    Defensive Forward (Defend): Shuttle Ball
+    False Nine (Lone Striker): Shuttle Ball Through Defence
+    Support Duty (Lone Striker): Create Chances
+    Support Duty (Multiple Strikers): Shuttle Bal Aggressively
+    Trequartista (Lone Striker): Create Chances Urgently
+    Trequartista (Multiple Strikers): Force Half Chances
+
+
+ATTACKING
+
+    GK: Cycle Possession
+    Sweeper Keeper (Attack): Initiate Attacks
+    Sweeper Keeper (Support): Initiate Attacks
+
+    SW: Disrupt Attacks Quickly
+    Libero (Attack): Shuttle Ball
+    Libero (Support): Keep Possession
+
+    DC: Recover Possession
+    Cover Duty (All Roles): Disrupt Attacks
+    Stopper Duty (All Roles): Recover Possession Immediately
+
+    DL/R: Shuttle Ball Through Defence
+    Defend Duty (All Roles): Recover Possession Immediately
+    Support Duty (All Roles): Keep Possession Under Pressure
+
+    DMC: Keep Possession Away From Pressure
+    Halfback: Recover Possession
+    Support Duty (All Roles): Shuttle Ball Into Space
+
+    WBL/R: Spearhead Attacks
+    Wingback (Defend): Keep Possession
+    Wingback (Support): Shuttle Ball
+
+    MC: Spearhead Attacks Closer to Defence
+    Deep Lying Playmaker (Defend): Keep Possession Away From Pressure
+    Deep Lying Playmaker (Support): Shuttle Ball Into Space
+    Defend Duty (All Other Roles): Keep Possession Under Pressure
+    Support Duty (All Other Roles): Shuttle Ball Through Defence
+
+    ML/R: Penetrate Gaps Intermittently
+    Defend Duty (All Roles): Shuttle Ball Into Space
+    Support Duty (All Roles): Create Chances Patiently
+
+    AMC: Penetrate Gaps
+    Advanced Playmaker (Attack): Create Chances Urgently
+    Advanced Playmaker (Support): Shuttle Ball Through Defence
+    Enganche: Force Half Chances
+    Shadow Striker: Penetrate Gaps Persistently
+    Support Duty (All Other Roles): Create Chances
+    Trequartista: Force Half Chances
+
+    AML/R: Penetrate Gaps Persistently
+    Advanced Playmaker (Attack): Force Half Chances When Necessary
+    Advanced Playmaker (Support): Shuttle Ball Into Space
+    Defensive Winger (Defend): Shuttle Ball Through Defence
+    Support Duty (All Other Roles): Create Chances Urgently
+
+    ST (Lone Striker): Draw Off Defenders
+    Attack Duty (Multiple Strikers): Overload Defenders
+    Defensive Forward (Defend): Suppress Counterattacking Options
+    False Nine (Lone Striker): Create Chances
+    Support Duty (Lone Striker): Force Half Chances When Necessary
+    Support Duty (Multiple Strikers): Create Chances Patiently
+    Trequartista (Lone Striker): Force Half Chances
+    Trequartista (Multiple Strikers): Force Half Chances Without Hesitation
+
+
+OVERLOAD
+
+    GK: Initiate Attacks
+    Sweeper Keeper (Attack): Support Attacks
+    Sweeper Keeper (Support): Initiate Attacks
+
+    SW: Recover Possession Immediately
+    Libero (Attack): Spearhead Attacks
+    Libero (Support): Shuttle Ball
+
+    DC: Keep Possession
+    Cover Duty (All Roles): Recover Possession
+    Stopper Duty (All Roles): Keep Possession Under Pressure
+
+    DL/R: Spearhead Attacks Closer to Defence
+    Defend Duty (All Roles): Keep Possession Under Pressure
+    Support Duty (All Roles): Shuttle Ball Through Defence
+
+    DMC: Shuttle Ball Into Space
+    Halfback: Keep Possession
+    Support Duty (All Roles): Create Chances Patiently
+
+    WBL/R: Penetrate Gaps
+    Wingback (Defend): Shuttle Ball
+    Wingback (Support): Create Chances
+
+    MC: Penetrate Gaps Persistently
+    Advanced Playmaker (Attack): Force Half Chances Without Hesitation
+    Deep Lying Playmaker (Defend): Shuttle Ball Into Space
+    Deep Lying Playmaker (Support): Create Chances Patiently
+    Defend Duty (All Other Roles): Shuttle Ball Through Defence
+    Support Duty (All Other Roles): Create Chances Urgently
+
+    ML/R: Draw Off Defenders
+    Defend Duty (All Roles): Suppress Counterattacking Options
+    Support Duty (All Roles): Create Chances Urgently
+
+    AMC: Overload Defenders
+    Advanced Playmaker (Attack): Force Half Chances Without Hesitation
+    Advanced Playmaker (Support): Create Chances Urgently
+    Enganche: Test Defence
+    Support Duty (All Other Roles): Force Half Chances
+    Trequartista: Test Defence
+
+    AML/R: Challenge Defenders
+    Advanced Playmaker (Attack): Test Defence With Precision
+    Advanced Playmaker (Support): Force Half Chances When Necessary
+    Defensive Winger (Defend): Suppress Counterattacking Outlets
+    Support Duty (All Other Roles): Force Half Chances Without Hesitation
+
+    ST (Lone Striker): Bypass Last Defender
+    Attack Duty (Multiple Strikers): Bypass Last Defender
+    Defensive Forward (Defend): Isolate Advancing Midfielders
+    False Nine (Lone Striker): Force Half Chances
+    Support Duty (Lone Striker): Test Defence With Precision
+    Support Duty (Multiple Strikers): Force Half Chances When Necessary
+    Trequartista (Lone Striker): Test Defence
+    Trequartista (Multiple Strikers): Test Defence With Power
+
+d) Structured
+
+CONTAIN
+
+    GK: Shield Goal
+    Sweeper Keeper (All Duties): Limit Pressure
+
+    SW: Obstruct Shots
+    Libero (All Duties): Restrict Space Aggressively
+
+    DC: Obstruct Shots
+    Stopper Duty (All Roles): Divert Attacking Movement
+
+    DL/R: Divert Attacking Movement
+
+    DMC: Restrict Space Cautiously
+    Halfback: Divert Attacking Movement
+
+    WBL/R: Restrict Space
+
+    MC: Disrupt Attacks
+    Box to Box Midfielder: Disrupt Attacks Judiciously
+    Deep Lying Playmaker (All Duties): Restrict Space Cautiously
+    Defend Duty (All Other Roles): Restrict Space Aggressively
+
+    ML/R: Disrupt Attacks Quickly
+
+    AMC: Recover Possession After Defensive Transition
+    Advanced Playmaker (All Duties): Disrupt Attacks
+    Shadow Striker: Recover Possession Immediately
+
+    AML/R: Recover Possession
+    Advanced Playmaker (All Duties): Disrupt Attacks Quickly
+
+    ST (Lone Striker): Keep Possession
+    Attack Duty (Multiple Strikers): Shuttle Ball
+    False NIne (Lone Striker): Recover Possession After Defensive Transition
+    Support/Defend Duty (Multiple Strikers): Keep Possession Away From Pressure
+    Trequartista (Lone Striker): Recover Possession After Defensive Transition
+    Trequartista (Multiple Strikers): Keep Possession Away From Pressure
+
+
+DEFENSIVE
+
+    GK: Limit Pressure
+    Sweeper Keeper (All Duties): Distribute Safely
+
+    SW: Contain Attacking Movement
+    Libero (All Duties): Disrupt Attacks Quickly
+
+    DC: Divert Attacking Movement
+    Cover Duty (All Roles): Contain Attacking Movement
+    Stopper Duty (All Roles): Restrict Space Aggressively
+
+    DL/R: Restrict Space Aggressively
+
+    DMC: Disrupt Attacks Judiciously
+    Halfback: Restrict Space
+
+    WBL/R: Disrupt Attacks
+
+    MC: Recover Possession
+    Box to Box Midfielder: Recover Possession After Defensive Transition
+    Deep Lying Playmaker (All Duties): Disrupt Attacks Judiciously
+    Defend Duty (All Other Roles): Disrupt Attacks Quickly
+
+    ML/R: Recover Possession Immediately
+
+    AMC: Keep Possession Away From Pressure
+    Advanced Playmaker (All Duties): Recover Possession
+    Shadow Striker: Keep Possession Under Pressure
+
+    AML/R: Keep Possession
+    Advanced Playmaker (All Duties): Recover Possession Immediately
+
+    ST (Lone Striker): Shuttle Ball
+    Attack Duty (Multiple Strikers): Spearhead Attacks
+    False Nine (Lone Striker): Keep Possession Away From Pressure
+    Support/Defend Duty (Multiple Strikers): Shuttle Ball Into Space
+    Trequartista (Lone Striker): Keep Possession Away From Pressure
+    Trequartista (Multiple Strikers): Shuttle Ball Into Space
+
+
+COUNTER
+
+    GK: Limit Pressure
+    Sweeper Keeper (All Duties): Cycle Possession
+
+    SW: Restrict Space Cautiously
+    Libero (All Duties): Recover Possession
+
+    DC: Restrict Space
+    Cover Duty (All Roles): Divert Attacking Movement
+    Stopper Duty (All Roles): Disrupt Attacks Judiciously
+
+    DL/R: Disrupt Attacks
+
+    DMC: Disrupt Attacks Quickly
+    Halfback: Disrupt Attacks Judiciously
+
+    WBL/R: Recover Possession After Defensive Transition
+
+    MC: Keep Possession Away From Pressure
+    Box to Box Midfielder: Recover Possession Immediately
+    Deep Lying Playmaker (All Duties): Disrupt Attacks Quickly
+    Defend Duty (All Other Roles): Recover Possession
+
+    ML/R: Keep Possession
+
+    AMC: Keep Possession Under Pressure
+    Advanced Playmaker (All Duties): Keep Possession Away From Pressure
+    Shadow Striker: Shuttle Ball
+
+    AML/R: Shuttle Ball Into Space
+    Advanced Playmaker (All Duties): Keep Possession
+
+    ST (Lone Striker): Spearhead Attacks from the Hole
+    Attack Duty (Multiple Strikers): Create Chances Urgently
+    Defensive Forward (Defend Duty - Lone Striker): Suppress Counterattacking Options
+    False Nine (Lone Striker): Keep Possession Under Pressure
+    Support Duty (Lone Striker): Create Chances Patiently
+    Support/Defend Duty (Multiple Strikers): Shuttle Ball
+    Trequartista (Lone Striker): Keep Possession Under Pressure
+    Trequartista (Multiple Strikers): Shuttle Ball
+
+
+STANDARD
+
+    GK: Distribute Safely
+    Sweeper Keeper (All Duties): Cycle Possession
+
+    SW: Restrict Space
+    Libero (All Duties): Keep Possession Away From Pressure
+
+    DC: Disrupt Attacks Judiciously
+    Cover Duty (All Roles): Restrict Space
+    Stopper Duty (All Roles): Disrupt Attacks Quickly
+
+    DL/R: Recover Possession After Defensive Transition
+
+    DMC: Recover Possession
+    Halfback: Disrupt Attacks Quickly
+
+    WBL/R: Recover Possession Immediately
+
+    MC: Keep Possession Under Pressure
+    Box to Box Midfielder: Keep Possession
+    Deep Lying Playmaker (All Duties): Recover Possession
+    Defend Duty (All Other Roles): Keep Possession Away From Pressure
+
+    ML/R: Shuttle Ball Into Space
+
+    AMC: Shuttle Ball
+    Advanced Playmaker (All Duties): Keep Possession Under Pressure
+    Shadow Striker: Spearhead Attacking Moves from the Hole
+
+    AML/R: Shuttle Ball Through Defence
+    Advanced Playmaker (All Duties): Shuttle Ball Into Space
+
+    ST (Lone Striker): Spearhead Attacking Moves Closer to Defence
+    Attack Duty (Multiple Strikers): Penetrate Gaps
+    Defensive Forward (Defend - Lone Striker): Suppress Counterattacking Outlets
+    Defensive Forward (Defend - Multiple Strikers): Suppress Counterattacking Options
+    False Nine (Lone Striker): Shuttle Ball
+    Support Duty (Lone Striker): Create Chances Urgently
+    Support Duty (Multiple Strikers): Create Chances Patiently
+    Trequartista (Lone Striker): Shuttle Ball
+    Trequartista (Multiple Strikers): Create Chances Patiently
+
+
+CONTROL
+
+    GK: Distribute Safely
+    Sweeper Keeper (All Duties): Initiate Attacks
+
+    SW: Disrupt Attacks Judiciously
+    Libero (All Duties): Keep Possession Under Pressure
+
+    DC: Disrupt Attacks Quickly
+    Cover Duty (All Roles): Disrupt Attacks Judiciously
+    Stopper Duty (All Roles): Recover Possession
+
+    DL/R: Recover Possession Immediately
+
+    DMC: Keep Possession Away From Pressure
+    Halfback: Recover Possession
+
+    WBL/R: Keep Possession
+
+    MC: Shuttle Ball
+    Box to Box Midfielder: Shuttle Ball Into Space
+    Deep Lying Playmaker (All Duties): Keep Possession Away From Pressure
+    Defend Duty (All Other Roles): Keep Possession Under Pressure
+
+    ML/R: Shuttle Ball Through Defence
+
+    AMC: Spearhead Attacking Moves from the Hole
+    Advanced Playmaker (All Duties): Shuttle Ball
+    Shadow Striker: Spearhead Attacking Moves Closer to Defence
+    Support Duty (All Other Roles): Create Chances Patiently
+
+    AML/R: Spearhead Attacking Moves
+    Advanced Playmaker (All Duties): Shuttle Ball Through Defence
+    Defensive Winger (Defend): Suppress Counterattacks
+    Support Duty (All Other Roles): Create Chances
+
+    ST (Lone Striker): Penetrate Gaps
+    Attack Duty (Multiple Strikers): Draw Off Defenders
+    Defensive Forward (Defend - Lone Striker): Isolate Midfielders
+    Defensive Forward (Defend - Multiple Strikers): Suppress Counterattacking Outlets
+    False Nine (Lone Striker): Create Chances
+    Support Duty (Lone Striker): Force Half Chances
+    Support Duty (Multiple Strikers): Create Chances Urgently
+    Trequartista (Lone Striker): Create Chances
+    Trequartista (Multiple Strikers): Create Chances Urgently
+
+
+ATTACK
+
+    GK: Cycle Possession
+    Sweeper Keeper (All Duties): Initiate Attacks
+
+    SW: Disrupt Attacks Quickly
+    Libero (All Duties): Shuttle Ball
+
+    DC: Recover Possession
+    Cover Duty (All Roles): Disrupt Attacks
+    Stopper Duty (All Roles): Recover Possession Immediately
+
+    DL/R: Keep Possession
+
+    DMC: Keep Possession Under Pressure
+    Halfback: Keep Possession Away From Pressure
+
+    WBL/R: Shuttle Ball Into Space
+
+    MC: Spearhead Attacking Moves from the Hole
+    Box to Box Midfielder: Shuttle Ball Through Defence
+    Deep Lying Playmaker (All Duties): Keep Possession Under Pressure
+    Defend Duty (All Other Roles): Shuttle Ball
+    Support Duty (All Other Roles): Create Chances Patiently
+
+    ML/R: Spearhead Attacking Moves
+    Defend Duty (All Roles): Suppress Counterattacks
+    Support Duty (All Roles): Create Chances
+
+    AMC: Spearhead Attacking Moves Closer to Defence
+    Advanced Playmaker (All Duties): Create Chances Patiently
+    Shadow Striker: Penetrate Gaps
+    Support Duty (All Other Roles): Create Chances Urgently
+
+    AML/R: Penetrate Gaps Intermittently
+    Advanced Playmaker (All Duties): Create Chances
+    Defensive Winger (Defend): Isolate Advancing Midfielders
+    Support Duty (All Other Roles): Force Half Chances When Necessary
+
+    ST (Lone Striker): Draw Off Defenders
+    Attack Duty (Multiple Strikers): Overload Defenders
+    Defensive Forward (Defend - Lone Striker): Hassle Dawdling Defenders
+    Defensive Forward (Defend - Multiple Strikers): Isolate Advancing Midfielders
+    False Nine (Lone Striker): Force Half Chances
+    Support Duty (Lone Striker): Test Defence With Precision
+    Support Duty (Multiple Strikers): Penetrate Gaps Intermittently
+    Trequartista (Lone Striker): Force Half Chances
+    Trequartista (Multiple Strikers): Force Half Chances When Necessary
+
+
+OVERLOAD
+
+    GK: Initiate Attacks
+    Sweeper Keeper (All Duties): Support Attacks
+
+    SW: Recover Possession Immediately
+    Libero (Attack Duty): Spearhead Attacking Moves
+    Libero (Support Duty): Create Chances
+
+    DC: Keep Possession
+    Cover Duty (All Roles): Keep Possession Under Pressure
+    Stopper Duty (All Roles): Recover Possession
+
+    DL/R: Shuttle Ball
+
+    DMC: Shuttle Ball Through Defence
+    Halfback: Shuttle Ball Into Space
+
+    WBL/R: Spearhead Attacking Moves from the Hole
+    Defend Duty: Suppress Counterattacking Options
+    Support Duty: Create Chances Patiently
+
+    MC: Penetrate Gaps Intermittently
+    Advanced Playmaker (All Duties): Force Half Chances When Necessary
+    Box to Box Midfielder: Create Chances Urgently
+    Deep Lying Playmaker (All Duties): Shuttle Ball Through Defence
+    Defend Duty (All Other Roles): Suppress Counterattacks
+    Support Duty (All Other Roles): Force Half Chances When Necessary
+
+    ML/R: Penetrate Gaps
+    Defend Duty (All Roles): Isolate Midfielders
+    Support Duty (All Roles): Force Half Chances
+
+    AMC: Penetrate Gaps Persistently
+    Advanced Playmaker (All Duties): Force Half Chances When Necessary
+    Enganche: Force Half Chances Without Hesitation
+    Shadow Striker: Draw Off Defenders
+    Support Duty (All Other Roles): Force Half Chances Without Hesitation
+    Trequartista: Force Half Chances Without Hesitation
+
+    AML/R: Draw Off Defenders
+    Advanced Playmaker (All Duties): Force Half Chances Without Hesitation
+    Defensive Winger (Defend): Hassle Dawdling Defenders
+    Support Duty (All Other Roles): Test Defence With Precision
+
+    ST (Lone Striker): Bypass Last Defender
+    Attack Duty (Multiple Strikers): Bypass Last Defender
+    Defensive Forward (Defend - Lone Striker): Force Clearance
+    Defensive Forward (Defend - Multiple Strikers): Hassle Dawdling Defenders
+    False Nine (Lone Striker): Test Defence
+    Support Duty (Lone Striker): Rush Ball Forward
+    Support Duty (Multiple Strikers): Test Defence With Precision
+    Trequartista (Lone Striker): Test Defence
+    Trequartista (Multiple Strikers): Test Defence With Precision
+
+e) Highly structured
+
+CONTAIN
+
+    GK: Shield Goal
+    Sweeper Keeper (All Duties): Limit Pressure
+
+    SW: Obstruct Shots
+    Libero (All Duties): Restrict Space Cautiiously
+
+    DC: Obstruct Shots
+    Stopper Duty (All Roles): Contain Attacking Movement
+
+    DL/R: Slow Attacking Movement
+
+    DMC: Divert Attacking Movement
+    Halfback: Contain Attacking Movement
+
+    WBL/R: Divert Attacking Movement
+
+    MC: Disrupt Attacks Judiciously
+    Box to Box Midfielder: Restrict Space Aggressively
+    Deep Lying Playmaker (All Duties): Restrict Space Cautiiously
+    Defend Duty (All Other Roles): Restrict Space
+
+    ML/R: Disrupt Attacks Judiciously
+
+    AMC: Disrupt Attacks Quickly
+    Advanced Playmaker (All Duties): Disrupt Attacks Judiciously
+    Shadow Striker: Recover Possession
+
+    AML/R: Disrupt Attacks Quickly
+    Advanced Playmaker (All Duties): Disrupt Attacks Judiciously
+
+    ST (Lone Striker): Recover Possession Immediately
+    Attack Duty (Multiple Strikers): Keep Possession Under Pressure
+    Defend/Support Duty (Multiple Strikers): Recover Possession
+    False Nine (Lone Striker): Disrupt Attacks Quickly
+    Trequartista (Lone Striker): Disrupt Attacks Quickly
+    Trequartista (Multiple Strikers): Recover Possession Immediately
+
+
+DEFENSIVE
+
+    GK: Limit Pressure
+    Sweeper Keeper (All Duties): Distribute Safely
+
+    SW: Contain Attacking Movement
+    Libero (All Duties): Disrupt Attacks Judiciously
+
+    DC: Divert Attacking Movement
+    Cover Duty (All Roles): Contain Attacking Movement
+    Stopper Duty (All Roles): Restrict Space Aggressively
+
+    DL/R: Restrict Space Cautiously
+
+    DMC: Restrict Space Aggressively
+    Halfback: Restrict Space
+
+    WBL/R: Restrict Space Aggressively
+
+    MC: Recover Possession After Defensive Transition
+    Box to Box Midfielder: Disrupt Attacks Quickly
+    Deep Lying Playmaker (All Duties): Disrupt Attacks Judiciously
+    Defend Duty (All Other Roles): Disrupt Attacks
+
+    ML/R: Recover Possession After Defensive Transition
+
+    AMC: Recover Possession Immediately
+    Advanced Playmaker (All Duties): Recover Possession After Defensive Transition
+    Shadow Striker: Keep Possession
+
+    AML/R: Recover Possession Immediately
+    Advanced Playmaker (All Duties): Recover Possession
+
+    ST (Lone Striker): Keep Possession Under Pressure
+    Attack Duty (Multiple Strikers): Shuttle Ball Through Defence
+    Defend/Support Duty (Multiple Strikers): Keep Possession
+    False Nine (Lone Striker): Recover Possession Immediately
+    Trequartista (Lone Striker): Recover Possession Immediately
+    Trequartista (Multiple Strikers): Keep Possession Under Pressure
+
+
+COUNTER
+q[uote]
+GK: Limit Pressure
+Sweeper Keeper (All Duties): Cycle Possession
+
+SW: Restrict Space Cautiiously
+Libero (All Duties): Recover Possession After Defensive Transition
+
+DC: Restrict Space Aggressively
+Cover Duty (All Roles): Restrict Space Cautiiously
+Stopper Duty (All Roles): Disrupt Attacks
+
+DL/R: Disrupt Attacks Judiciously
+
+DMC: Disrupt Attacks Quickly
+Halfback: Disrupt Attacks Judiciously
+
+WBL/R: Disrupt Attacks Quickly
+
+MC: Keep Possession Away From Pressure
+Box to Box Midfielder: Recover Possession Immediately
+Deep Lying Playmaker (All Duties): Disrupt Attacks Quickly
+Defend Duty (All Other Roles): Recover Possession
+
+ML/R: Keep Possession Away From Pressure
+
+AMC: Keep Possession Under Pressure
+Advanced Playmaker (All Duties): Keep Possession Away From Pressure
+Shadow Striker: Shuttle Ball
+
+AML/R: Keep Possession Under Pressure
+Advanced Playmaker (All Duties): Keep Possession Away From Pressure
+
+ST (Lone Striker): Shuttle Ball Through Defence
+Attack Duty (Multiple Strikers): Spearhead Attacking Moves
+Defend/Support Duty (Multiple Strikers): Shuttle Ball Into Space
+False Nine (Lone Striker): Keep Possession Under Pressure
+Trequartista (Lone Striker): Keep Possession Under Pressure
+Trequartista (Multiple Strikers): Shuttle Ball
+
+STANDARD
+q[uote]
+GK: Distribute Safely
+Sweeper Keeper (All Duties): Cycle Possession
+
+SW: Restrict Space Aggressively
+Libero (All Duties): Recover Possession Immediately
+
+DC: Disrupt Attacks
+Cover Duty (All Roles): Restrict Space Aggressively
+Stopper Duty (All Roles): Recover Possession After Defensive Transition
+
+DL/R: Disrupt Attacks Quickly
+
+DMC: Recover Possession
+Halfback: Disrupt Attacks Quickly
+
+WBL/R: Recover Possession
+
+MC: Keep Possession Under Pressure
+Box to Box Midfielder: Keep Possession
+Deep Lying Playmaker (All Duties): Recover Possession
+Defend Duty (All Other Roles): Keep Possession Away From Pressure
+
+ML/R: Keep Possession Under Pressure
+
+AMC: Shuttle Ball
+Advanced Playmaker (All Duties): Keep Possession Under Pressure
+Shadow Striker: Spearhead Attacking Moves from the Hole
+
+AML/R: Shuttle Ball
+Advanced Playmaker (All Duties): Keep Possession Under Pressure
+
+ST (Lone Striker): Spearhead Attacking Moves
+Attack Duty (Multiple Strikers): Penetrate Gaps Intermittently
+Defend/Support Duty (Multiple Strikers): Shuttle Ball Through Defence
+False Nine (Lone Striker): Shuttle Ball
+Trequartista (Lone Striker): Shuttle Ball
+Trequartista (Multiple Strikers): Create Chances Patiently
+
+CONTROL
+
+    GK: Cycle Possession
+    Sweeper Keeper (All Duties): Initiate Attacks
+
+    SW: Disrupt Attacks
+    Libero (All Duties): Keep Possession
+
+    DC: Recover Possession After Defensive Transition
+    Cover Duty (All Roles): Disrupt Attacks
+    Stopper Duty (All Roles): Recover Possession Immediately
+
+    DL/R: Recover Possession
+
+    DMC: Keep Possession Away From Pressure
+    Halfback: Recover Possession
+
+    WBL/R: Keep Possession Away From Pressure
+
+    MC: Shuttle Ball
+    Box to Box Midfielder: Shuttle Ball Into Space
+    Deep Lying Playmaker (All Duties): Keep Possession Away From Pressure
+    Defend Duty (All Other Roles): Keep Possession Under Pressure
+
+    ML/R: Shuttle Ball
+
+    AMC: Spearhead Attacking Moves from the Hole
+    Advanced Playmaker (All Duties): Shuttle Ball
+    Shadow Striker: Spearhead Attacking Moves Closer to Defence
+    Support Duty (All Other Roles): Create Chances Patiently
+
+    AML/R: Spearhead Attacking Moves from the Hole
+    Advanced Playmaker (All Duties): Shuttle Ball Through Defence
+    Defensive Winger (Defend): Suppress Counterattacking Options
+    Support Duty (All Other Roles): Create Chances Patiently
+
+    ST (Lone Striker): Penetrate Gaps Intermittently
+    Attack Duty (Multiple Strikers): Penetrate Gaps Persistently
+    Defensive Forward (Defend - Lone Striker): Isolate Advancing Midfielders
+    Defensive Forward (Defend - Multiple Strikers): Suppress Counterattacks
+    False Nine (Lone Striker): Create Chances
+    Support Duty (Lone Striker): Force Half Chances When Necessary
+    Support Duty (Multiple Strikers): Create Chances
+    Trequartista (Lone Striker): Create Chances
+    Trequartista (Multiple Strikers): Create Chances Urgently
+
+
+ATTACKING
+
+    GK: Cycle Possession
+    Sweeper Keeper (All Duties): Initiate Attacks
+
+    SW: Recover Possession
+    Libero (All Duties): Shuttle Ball
+
+    DC: Keep Possession Away From Pressure
+    Cover Duty (All Roles): Recover Possession After Defensive Transition
+    Stopper Duty (All Roles): Keep Possession
+
+    DL/R: Keep Possession
+
+    DMC: Shuttle Ball Into Space
+    Halfback: Keep Possession
+
+    WBL/R: Shuttle Ball Into Space
+
+    MC: Spearhead Attacking Moves
+    Box to Box Midfielder: Create Chances Patiently
+    Deep Lying Playmaker (All Duties): Shuttle Ball Into Space
+    Defend Duty (All Other Roles): Shuttle Ball Through Defence
+    Support Duty (All Other Roles): Create Chances
+
+    ML/R: Spearhead Attacking Moves
+    Defend Duty (All Roles): Suppress Counterattacks
+    Support Duty (All Roles): Create Chances
+
+    AMC: Penetrate Gaps Intermittently
+    Advanced Playmaker (All Duties): Create Chances
+    Enganche: Force Half Chances When Necessary
+    Shadow Striker: Penetrate Gaps
+    Support Duty (All Other Roles): Force Half Chances When Necessary
+    Trequartista: Force Half Chances When Necessary
+
+    AML/R: Penetrate Gaps Intermittently
+    Advanced Playmaker (All Duties): Create Chances Urgently
+    Defensive Winger (Defend): Isolate Advancing Midfielders
+    Support Duty (All Other Roles): Force Half Chances When Necessary
+
+    ST (Lone Striker): Draw Off Defenders
+    Attack Duty (Multiple Strikers): Overload Defenders
+    Defensive Forward (Defend - Lone Striker): Hassle Dawdling Defenders
+    Defensive Forward (Defend - Multiple Strikers): Isolate Advancing Midfielders
+    False Nine (Lone Striker): Force Half Chances
+    Support Duty (Lone Striker): Test Defence With Precision
+    Support Duty (Multiple Strikers): Force Half Chances When Necessary
+    Trequartista (Lone Striker): Force Half Chances
+    Trequartista (Multiple Strikers): Force Half Chances
+
+
+OVERLOAD
+
+    GK: Initiate Attacks
+    Sweeper Keeper (All Duties): Support Attacks
+
+    SW: Keep Possession
+    Libero (Attack Duty): Spearhead Attacking Moves
+    Libero (Support Duty): Create Chances
+
+    DC: Shuttle Ball Into Space
+    Cover Duty (All Roles): Keep Possession Away From Pressure
+    Stopper Duty (All Roles): Shuttle Ball
+
+    DL/R: Shuttle Ball
+
+    DMC: Create Chances Patiently
+    Defend Duty (All Roles Except Deep Lying Playmaker): Suppress Counterattacking Options
+    Halfback: Shuttle Ball
+
+    WBL/R: Spearhead Attacking Moves from the Hole
+    Defend Duty (All Roles): Suppress Counterattacking Options
+    Support Duty (All Roles): Create Chances Patiently
+
+    MC: Penetrate Gaps
+    Advanced Playmaker (All Duties): Force Half Chances
+    Box to Box Midfielder: Force Half Chances When Necessary
+    Deep Lying Playmaker (All Duties): Create Chances Patiently
+    Defend Duty (All Other Roles): Suppress Counterattacking Outlets
+    Support Duty (All Other Roles): Force Half Chances
+
+    ML/R: Penetrate Gaps
+    Defend Duty (All Roles): Isolate Midfielders
+    Support Duty (All Roles): Force Half Chances
+
+    AMC: Draw Off Defenders
+    Advanced Playmaker (All Duties): Force Half Chances
+    Enganche: Test Defence With Precision
+    Shadow Striker: Overload Defenders
+    Support Duty (All Other Roles): Test Defence With Precision
+    Trequartista: Test Defence With Precision
+
+    AML/R: Draw Off Defenders
+    Advanced Playmaker (All Duties): Force Half Chances Without Hesitation
+    Defensive Winger (Defend): Hassle Dawdling Defenders
+    Support Duty (All Other Roles): Test Defence With Precision
+
+    ST (Lone Striker): Bypass Last Defender
+    Attack Duty (Multiple Strikers): Bypass Last Defender
+    Defensive Forward (Defend - Lone Striker): Force Clearance
+    Defensive Forward (Defend - Multiple Strikers): Hassle Dawdling Defenders
+    False Nine (Lone Striker): Test Defence
+    Support Duty (Lone Striker): Rush Ball Forward
+    Support Duty (Multiple Strikers): Test Defence With Precision
+    Trequartista (Lone Striker): Test Defence
+    Trequartista (Multiple Strikers): Test Defence
