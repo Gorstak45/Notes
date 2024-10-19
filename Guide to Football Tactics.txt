@@ -1,10 +1,10 @@
 1. Set fluidity depending on which league you play in:
 
 a) very fluid = only if godly players, not recommended
-b) fluid = Premier league
-c) flexible = Championship
-d) structured = League 1 and 2
-e) highly structured = Conference and amateur leagues
+b) fluid = Premier league and Championship
+c) flexible = League 1 and 2
+d) structured = Conference leagues
+e) highly structured = Amateur leagues
 
 2. Fluidity meaning:
 
