@@ -1,26 +1,26 @@
-1. Set mentality depending on number of attackers (ST + W + AMC):
+1. Set fluidity depending on which league you play in:
 
-a) 0 attackers = attacking = go route one
-b) 1 attackers = control = direct passing
-c) 2 attackers = standard = mixed passing 
-d) 3 attackers = counter = shorter passing
-e) 4 attackers = defensive = shorter passing + retain possession
+a) very fluid = only if godly players, not recommended
+b) fluid = Premier league
+c) flexible = Championship
+d) structured = League 1 and 2
+e) highly structured = Conference and amateur leagues
 
-2. Set fluidity on depending on horizontal lines missing in formation (don't forget SW):
-
-a) 4 lines missing = very fluid = press much more
-b) 3 line missing = fluid = press more
-c) 2 lines missing = flexible = standard pressing
-d) 1 lines missing = structured = press less
-e) 0 lines missing = highly structured = press much less
-
-3. Fluidity meaning:
+2. Fluidity meaning:
 
 a) highly structured = players play assigned roles
 b) structured = players play assigned roles and duties
 c) flexible = players play assigned duties
 d) fluid = players can bypass role and duty
 e) very fluid = players can bypass role and duty and mentality
+
+3. Set mentality depending on number of players injured or carded:
+
+a) you are 2 men down = defense
+b) you are man down = counter
+c) normal condition = standard
+d) opponent is man down = control
+e) opponent is 2 men down = attacking
 
 4. Set support duties depending on fluidity (lower figure if 3 CB's)
 
@@ -30,7 +30,14 @@ c) flexible = 4-5 support duties
 d) fluid = 6-7 support duties
 e) very fluid = 8-9 support duties
 
-5. Changing fluidity and mentality is needed to make a specific part of the pitch your strong spot. 
+5. Adjust pressing depending on your formation triangles
+
+a) no triangles = press more
+b) cm + dm triangle = press more
+c) am + cm + dm triangle = normal pressing
+d) am + cm triangle = stand off
+
+6. Changing fluidity and mentality is needed to make a specific part of the pitch your strong spot. 
 However, the opposite will be your weak spot. This is useful if you want a group of players or a single player to excel for selling:
 
 a) very fluid = right
@@ -46,19 +53,6 @@ d) standard = DM
 e) counter = MC
 f) defensive = AMC
 g) contain = ST
-
-6) Notes
-
-a) Changing fluidity and mentality will make your team weaker (if you decrease it), or too tired before match is over (if you increase it).
-b) You can change pressing instead of fluidity, and passing instead of mentality. Or change all 3 options (like instead of fluid opt for flexible + press more).
-c) Defense is played so you are keeping opponent away from your goal and passing in opponent third. Offense is waiting in your half and going counter and push all men forward from deep.
-d) Players will get injured or get cards if mentality is higher then fluidity.
-e) If newly assembled team, drop fluidity so players positioning is better.
-f) If more structured, players are prone to errors but with good positioning.
-g) If more fluid, good with referee, lots of chances.
-h) More fluid and more agressive will yield better results, but will tire out your players before match is over.
-j) Playing more defensively and less fluid can make your team stronger, but can also make you a punching bag.
-k) Ideal match will always end 0:0. Meaning both teams attacked and defended perfectly.
 
 7) Player responsibilities
 
