@@ -1,18 +1,18 @@
-1. Set mentality depending on horizontal lines missing in formation (don't forget SW):
+1. Set mentality depending on number of attackers (ST + W + AMC):
 
-a) 4 lines missing = attacking
-b) 3 line missing = control
-c) 2 lines missing = standard
-d) 1 lines missing = counter
-e) 0 lines missing = defensive
+a) 0 attackers = attacking = go route one
+b) 1 attackers = control = direct passing
+c) 2 attackers = standard = mixed passing 
+d) 3 attackers = counter = shorter passing
+e) 4 attackers = defensive = shorter passing + retain possession
 
-2. Set fluidity on depending on defensive players:
+2. Set fluidity on depending on horizontal lines missing in formation (don't forget SW):
 
-a) 7 defenders = very fluid
-b) 6 defenders = fluid
-c) 5 defenders = flexible
-d) 4 defenders = structured
-e) 3 defenders = highly structured
+a) 4 lines missing = very fluid = press much more
+b) 3 line missing = fluid = press more
+c) 2 lines missing = flexible = standard pressing
+d) 1 lines missing = structured = press less
+e) 0 lines missing = highly structured = press much less
 
 3. Fluidity meaning:
 
@@ -47,7 +47,20 @@ e) counter = MC
 f) defensive = AMC
 g) contain = ST
 
-6) Player responsibilities
+6) Notes
+
+a) Changing fluidity and mentality will make your team weaker (if you decrease it), or too tired before match is over (if you increase it).
+b) You can change pressing instead of fluidity, and passing instead of mentality. Or change all 3 options (like instead of fluid opt for flexible + press more).
+c) Defense is played so you are keeping opponent away from your goal and passing in opponent third. Offense is waiting in your half and going counter and push all men forward from deep.
+d) Players will get injured or get cards if mentality is higher then fluidity.
+e) If newly assembled team, drop fluidity so players positioning is better.
+f) If more structured, players are prone to errors but with good positioning.
+g) If more fluid, good with referee, lots of chances.
+h) More fluid and more agressive will yield better results, but will tire out your players before match is over.
+j) Playing more defensively and less fluid can make your team stronger, but can also make you a punching bag.
+k) Ideal match will always end 0:0. Meaning both teams attacked and defended perfectly.
+
+7) Player responsibilities
 
 a) Very fluid
 
