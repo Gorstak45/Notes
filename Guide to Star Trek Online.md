@@ -100,6 +100,8 @@ Assimilated module + Kinetic cutting beam will give set bonus which will help wi
 
 Fleet warp core will help you in battle.
 
+Do not rely on small figures. 2.5% proc chance is nothing. Go for stuff that is per hit.
+
 # Space Keybinds
 Copy the following in notepad and save as `Space.txt`. Then while you are in space in STO, type `/unbind_all` and then `/bind_load_file D:\Space.txt` (or the path where you saved the file). 
 Assign your powers to tray 10, 9, 8 and 7 and keep pressing spacebar during combat.
