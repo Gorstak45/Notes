@@ -7,20 +7,20 @@ Cptn skills: Everything is good, just some is more useful than others. Distance 
 
 Cptn spec: Temporal primary, strategist secondary.
 
-Cptn traits: +dmg, +bonus dmg, +haste, +maybe something to save your ass, accuracy
+Cptn traits: +dmg, +bonus dmg, +haste, +maybe something to save your ass, accuracy, crits
 
-Space and Ground Traits: +dmg, +bonus dmg, +haste, +maybe something to save your ass, accuracy
+Space and Ground Traits: +dmg, +bonus dmg, +haste, +maybe something to save your ass, accuracy, crits
 
 Ship: Any T6, preferably with 2 experimental upgrades
 
-Ship traits: +dmg, +bonus dmg, +haste, +maybe something to save your ass, accuracy
+Ship traits: +dmg, +bonus dmg, +haste, +maybe something to save your ass, accuracy, crits
 
-Boffs: watchers or SRO's
+Boffs: watchers or Superior romulan operatives
 
-Boff Powers: attack pattern omega, emergency power to engines, photonic officer, reverse shield polarity, aux to sif, teams, surgical strikes, 
+Boff Powers: attack pattern omega, emergency power to engines, photonic officer, reverse shield polarity, aux to sif, teams, 
 jam sensors, scramble sensors, gravity well, one attack upgrade and polarize hull
 
-Doffs: emergency conn hologram (from phoenix), fabrication eng to extend reverse shield polarity
+Doffs: emergency conn hologram (from phoenix), fabrication eng to extend reverse shield polarity, other 3 shouls be for dmg (energy officers or borg)
 
 Ship seating: any, for pvp you want cmdr intel
 
